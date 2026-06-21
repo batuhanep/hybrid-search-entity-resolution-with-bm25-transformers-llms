@@ -7,6 +7,7 @@ import faiss
 from typing import List, Dict, Tuple, Any
 from tqdm import tqdm
 import logging
+import os
 import sys
 import re
 from collections import defaultdict
