@@ -1,0 +1,11 @@
+pandas
+numpy
+torch
+sentence-transformers
+rank-bm25
+faiss-cpu
+requests
+tenacity
+tqdm
+python-dotenv
+openpyxl
