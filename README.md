@@ -16,7 +16,7 @@ The pipeline operates across four structured layers:
 ## Repository Structure
 
 ```text
-AI-NLP-Semantic-Hybrid-Product-Matching-with-Transformers/
+hybrid-search-entity-resolution-with-bm25-transformers-llms/
 ├── .env
 ├── .gitignore
 ├── README.md
